@@ -22,6 +22,7 @@ spec:
         values:
         - darwin
         - linux
+        - windows
     uri: https://github.com/rabbitmq/cluster-operator/archive/v1.1.0.tar.gz
     sha256: 9b6649ade52acc0d671b48af9061d9ca5ada3853e7f29fa4174149333e11d2e3
     bin: kubectl-rabbitmq
